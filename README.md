@@ -1,6 +1,6 @@
 # Job hunter
 
-A local assistant that finds **remote-eligible** analytics/data roles, prefers **$180k+** when pay is posted, tailors a resume per listing, and **never applies until you approve**.
+A local assistant that finds **remote-eligible** analytics/data roles, prefers **$100k+** when pay is posted, tailors a resume per listing, and **never applies until you approve**.
 
 The profile in this repo is a **fictional sample**. Replace it with yours before you scan for real.
 
@@ -33,7 +33,7 @@ Then replace the sample profile:
 3. `profile/resume_template.docx` — optional Word template (tailoring clones this file’s styling)
 4. `hunter/evidence.py` — `CAPABILITIES` evidence strings must stay true of your resume
 5. `hunter/resume.py` — `IDENTITY` opening lines, same rule
-6. `hunter/config.py` — title patterns and `$180k` floor if you want different targets
+6. `hunter/config.py` — title patterns and `$100k` floor if you want different targets
 
 ## Daily use
 
