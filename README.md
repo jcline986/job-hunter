@@ -7,7 +7,7 @@ The profile in this repo is a **fictional sample**. Replace it with yours before
 ## What it does
 
 1. **Scan** public aggregators (Remotive, RemoteOK, Himalayas, The Muse, Jobicy, We Work Remotely, Arbeitnow; Adzuna if you set keys) plus Greenhouse/Lever/Ashby ATS boards.
-2. **Filter** to remote (or US-remote wording), roles a US applicant can take (country-only locks like “Nigeria only” are dropped), and compensation ≥ $180k when salary is posted. Unposted salaries stay in the queue for you to judge.
+2. **Filter** to remote (or US-remote wording), roles a US applicant can take (country-only locks like “Nigeria only” are dropped), and compensation ≥ $100k when salary is posted. Unposted salaries stay in the queue for you to judge.
 3. **Tailor** `profile/master_resume.md` into a per-job `.docx` plus a short cover note. Tailoring only leads with work already on the master resume — it will not invent tools.
 4. **Queue** everything locally. You approve in the review UI or CLI.
 5. **Apply assist** opens a visible browser, fills name/email/phone/LinkedIn and attaches the tailored resume when there is a file input, then **waits for you to submit**.
