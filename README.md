@@ -17,7 +17,7 @@ It does **not** scrape LinkedIn or automate Easy Apply (that violates LinkedInâ€
 ## Setup
 
 ```bash
-git clone https://github.com/<you>/job-hunter.git
+git clone https://github.com/jcline986/job-hunter.git
 cd job-hunter
 python3 -m venv .venv
 source .venv/bin/activate
